@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class ONG extends Organizacao {
 
-public class ONG {
+    public ONG(String nome) {
+        super(nome);
+    }
+
 }

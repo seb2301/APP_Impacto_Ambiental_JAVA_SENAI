@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class ImpactoAmbiental {
+public interface ImpactoAmbiental {
+    void calcularImpacto();
 }
